@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["parcel-test-project.dd5195d8.css","src/styles.css"],"sourcesContent":["h1 {\n  color: #ff69b4;\n  font-family: cursive;\n}\n/*# sourceMappingURL=parcel-test-project.dd5195d8.css.map */\n","h1 {\r\n  color: hotpink;\r\n  font-family: cursive;\r\n}"],"names":[],"version":3,"file":"parcel-test-project.dd5195d8.css.map"}

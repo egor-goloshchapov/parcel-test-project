@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/app.js"],"sourcesContent":["var $e73bf42412feb220$exports = {};\nconsole.log(\"Hellow World!\");\n\n\n//# sourceMappingURL=parcel-test-project.a6b0ce99.js.map\n","console.log(\"Hellow World!\");"],"names":["console","log"],"version":3,"file":"parcel-test-project.a6b0ce99.js.map"}
