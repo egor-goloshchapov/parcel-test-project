@@ -2,17 +2,21 @@
   "name": "parcel-test-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "homepage": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /parcel-test-project/",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.3.8"
-  },
   "devDependencies": {
-    "uuid": "^13.0.0"
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
