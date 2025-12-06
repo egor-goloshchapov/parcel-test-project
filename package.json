@@ -2,7 +2,7 @@
   "name": "parcel-test-project",
   "version": "1.0.0",
   "description": "",
-  "homepage": "",
+  "homepage": "https://egor-goloshchapov.github.io/parcel-test-project/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
